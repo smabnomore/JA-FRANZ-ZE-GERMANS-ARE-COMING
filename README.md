@@ -1,2 +1,2 @@
-# JA-FRANZ-ZE-GERMANS-ARE-COMING
-OH REALLY? UNZ RRELEASE ZE BATS. UNZ TAKE CARE OF ZE FLUFFY.
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
